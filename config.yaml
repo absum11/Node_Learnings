@@ -1,0 +1,4 @@
+server:
+  env: "local"
+  http:
+    port: 3000
